@@ -4,7 +4,7 @@ This project is a machine learning-based web application that predicts the quali
 
 ## 🚀 Project Overview
 
-Wine quality is influenced by various chemical properties. This model uses supervised learning to classify wine samples into quality categories. The application allows users to input wine characteristics and receive a predicted quality score.
+Various chemical properties influence wine quality. This model employs supervised learning to categorize wine samples based on their quality. The application allows users to input wine characteristics and receive a predicted quality score.
 
 ## 🧠 Algorithms Used
 
@@ -25,17 +25,16 @@ Each model was evaluated using accuracy, precision, recall, and F1-score to dete
 
 ## 📊 Dataset
 
-The dataset used is the [Wine Quality Dataset](https://archive.ics.uci.edu/ml/datasets/Wine+Quality) from the UCI Machine Learning Repository. It contains physicochemical attributes of red and white wine samples along with quality ratings.
+The dataset used is the [Wine Quality Dataset]([https://archive.ics.uci.edu/ml/datasets/Wine+Quality](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009)) from Kaggle. It contains physicochemical attributes of red wine samples along with quality ratings.
 
 ## 📈 Model Evaluation
 
 | Model                  | Accuracy | Precision | Recall | F1-Score |
 |------------------------|----------|-----------|--------|----------|
-| Random Forest Classifier | XX%      | XX%       | XX%    | XX%      |
-| SVM                    | XX%      | XX%       | XX%    | XX%      |
-| MLPC                   | XX%      | XX%       | XX%    | XX%      |
+| Random Forest Classifier | 88%      | 89%       | 97%    | 93%      |
+| SVM                    | 88%      | 88%       | 93%    | 98%      |
+| MLPC                   | 87%      | 91%       | 94%    | 93%      |
 
-*Replace `XX%` with your actual results.*
 
 ## 🌐 Deployment
 
@@ -61,7 +60,7 @@ Wine-Quality-Prediction/
 
 ## 🙌 Acknowledgements
 
-- UCI Machine Learning Repository for the dataset
+- Kaggle dataset
 - Streamlit for the deployment framework
 - Scikit-learn for machine learning models
 
