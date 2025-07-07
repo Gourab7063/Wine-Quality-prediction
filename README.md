@@ -1,8 +1,3 @@
-That's awesome, Gourab! Here's a polished and professional `README.md` file you can use for your GitHub repository on the wine quality prediction model:
-
----
-
-```markdown
 # 🍷 Wine Quality Prediction
 
 This project is a machine learning-based web application that predicts the quality of wine based on physicochemical features. It leverages multiple classification algorithms and is deployed using Streamlit for an interactive user experience.
@@ -49,11 +44,6 @@ The model is deployed using **Streamlit**. To run the app locally:
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-```
-
-## 📸 Screenshots
-
-*Include screenshots of your Streamlit app here if available.*
 
 ## 📁 Project Structure
 
@@ -77,8 +67,6 @@ Wine-Quality-Prediction/
 
 ## 📬 Contact
 
-Created by **Gourab** – feel free to reach out via [LinkedIn](http://www.linkedin.com/in/gourab-biswas-202818222) or open an issue for suggestions!
+Created by **Gourab** – feel free to reach out via [LinkedIn](https://www.linkedin.com/) or open an issue for suggestions!
 
 ---
-
-
