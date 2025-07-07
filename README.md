@@ -43,7 +43,7 @@ The model is deployed using **Streamlit**. To run the app locally:
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-
+```
 ## 📁 Project Structure
 
 ```
